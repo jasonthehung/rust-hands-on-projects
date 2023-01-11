@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["rust-io-file-serde", "strtok", "museum-arii", "fibonacci", "event_encoder"]

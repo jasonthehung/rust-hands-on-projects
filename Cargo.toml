@@ -1,3 +1,12 @@
 [workspace]
 
-members = ["rust-io-file-serde", "strtok", "museum-arii", "fibonacci", "event_encoder", "actor"]
+members = [
+    "rust-io-file-serde", 
+    "strtok", 
+    "museum-arii", 
+    "fibonacci", 
+    "event_encoder", 
+    "actor", 
+    "crates_hands_on/axum"
+]
+

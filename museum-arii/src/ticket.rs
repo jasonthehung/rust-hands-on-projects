@@ -1,3 +1,4 @@
+use serde;
 use tokio::sync::{Semaphore, SemaphorePermit};
 
 pub struct Museum {

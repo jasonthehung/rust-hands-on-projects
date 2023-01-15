@@ -2,7 +2,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-crates_hands_on/axum/my-axum-app/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
